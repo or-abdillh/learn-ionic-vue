@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "learn-ionic-vue",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
